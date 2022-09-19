@@ -1,0 +1,14 @@
+body {
+
+    color: #180202;
+    background-color: lightgoldenrodyellow;
+    font:bold;
+  }
+
+  .jumbotron {
+    background-image: url("../images/question.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+    font:italic;
+  }
+
